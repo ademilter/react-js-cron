@@ -3,6 +3,9 @@
 /.pnp
 .pnp.js
 
+# editor, ide
+.idea
+
 # testing
 /coverage
 
